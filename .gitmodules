@@ -1,0 +1,3 @@
+[submodule "gog-games"]
+	path = gog-games
+	url = https://github.com/GOG-Games-com/GOG.com-Game-Collection-Verification
